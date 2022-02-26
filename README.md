@@ -1,0 +1,1 @@
+Basicly config file Neonvim
